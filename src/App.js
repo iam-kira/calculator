@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import './App.css'
 import Button from './Component/Button.js';
 import Result from './Component/Result.js';
-    
+     
 class App extends Component {
   constructor() {
     super();
